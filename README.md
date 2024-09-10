@@ -1,6 +1,6 @@
 <h1>Transform a ASCII art into a Japanese Style</h1>
 
-- 1️⃣ Acess this link for search for ASCII art
+- 1️⃣ Acess this link and search for an ASCII art
      https://emojicombos.com/github
 
 - 2️⃣ Search for an art in page
